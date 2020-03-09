@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 071b866555e1d50439b601c56a1bc667
+  - enabled: 0
+    path: Assets/Scenes/AgarioOnline.unity
+    guid: e5ee0eaab22b4894182a838f5a06a86f
+  - enabled: 1
+    path: Assets/Scenes/Agario3D.unity
+    guid: 3041ba97263e5934184428e2b9125fe4
+  - enabled: 0
+    path: Assets/Scenes/TestScene.unity
+    guid: 73cd622277aa0964ab8b7e5334cdf171
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  m_configObjects: {}
